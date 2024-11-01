@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fi">
+<phrase key="softwareId" value="Ohjelmiston tunniste"/>
+<phrase key="transactionId" value="Tapahtuman tunniste"/>
+<phrase key="totalWins" value="Kokonaisvoitot"/>
+<phrase key="totalWager" value="Kokonaispanos"/>
+<phrase key="pickNumber" value="Valitse numero"/>
+<phrase key="itemProfit" value="Esineen tuotto"/>
+<phrase key="cumulativeProfit" value="Kumulatiivinen tuotto"/>
+</translation>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="sv">
+<phrase key="softwareId" value="Mjukvaru-ID"/>
+<phrase key="transactionId" value="Transaktions-ID"/>
+<phrase key="totalWins" value="Total vinst"/>
+<phrase key="totalWager" value="Total satsning"/>
+<phrase key="pickNumber" value="Välj nummer"/>
+<phrase key="itemProfit" value="Objektvinst"/>
+<phrase key="cumulativeProfit" value="Ackumulerad vinst"/>
+</translation>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="pt">
+<phrase key="softwareId" value="ID do software"/>
+<phrase key="transactionId" value="ID da transação"/>
+<phrase key="totalWins" value="Total de Ganhos"/>
+<phrase key="totalWager" value="Total Apostado"/>
+<phrase key="pickNumber" value="Escolha número"/>
+<phrase key="itemProfit" value="Lucro do Item"/>
+<phrase key="cumulativeProfit" value="Lucro Acumulado"/>
+</translation>

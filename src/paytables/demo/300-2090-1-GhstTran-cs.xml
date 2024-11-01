@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="cs">
+<phrase key="softwareId" value="ID softwaru"/>
+<phrase key="transactionId" value="ID transakce"/>
+<phrase key="totalWins" value="Celková výhra"/>
+<phrase key="totalWager" value="Celková sázka"/>
+<phrase key="pickNumber" value="Vyberte číslo"/>
+<phrase key="itemProfit" value="Zisk z předmětu"/>
+<phrase key="cumulativeProfit" value="Celkový zisk"/>
+</translation>

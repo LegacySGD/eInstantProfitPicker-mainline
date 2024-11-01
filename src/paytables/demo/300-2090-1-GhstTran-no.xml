@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="no">
+<phrase key="softwareId" value="Programvare-ID"/>
+<phrase key="transactionId" value="Transaksjons-ID"/>
+<phrase key="totalWins" value="Totale gevinster"/>
+<phrase key="totalWager" value="Totalinnsats"/>
+<phrase key="pickNumber" value="Valgnummer"/>
+<phrase key="itemProfit" value="Gjenstandsfortjeneste"/>
+<phrase key="cumulativeProfit" value="Samlet fortjeneste"/>
+</translation>
